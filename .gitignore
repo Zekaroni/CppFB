@@ -1,0 +1,5 @@
+.vscode
+bin
+old
+SDL2.dll
+*.exe
